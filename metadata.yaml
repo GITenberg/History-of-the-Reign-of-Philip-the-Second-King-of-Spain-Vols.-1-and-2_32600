@@ -1,0 +1,32 @@
+_repo: History-of-the-Reign-of-Philip-the-Second-King-of-Spain-Vols.-1-and-2_32600
+_version: 0.1.0
+alternative_title: History of the Reign of Philip II, King of Spain, Vols. 1 and 2
+covers:
+- cover_type: archival
+  image_path: 32600-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Prescott, William Hickling
+    aliases:
+    - Prescott, W. H. (William Hickling)
+    - Prescott, William H. (William Hickling)
+    birthdate: 1796
+    deathdate: 1859
+    gutenberg_agent_id: '553'
+    url: http://www.gutenberg.org/2009/agents/553
+    wikipedia: http://en.wikipedia.org/wiki/William_H._Prescott
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- Philip II, 1556-1598'
+- !lcsh 'Philip II, King of Spain, 1527-1598'
+- !lcc 'DP'
+title: History of the Reign of Philip the Second, King of Spain, Vols. 1 and 2
+url: http://www.gutenberg.org/ebooks/32600
